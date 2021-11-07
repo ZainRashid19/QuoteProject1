@@ -1,0 +1,22 @@
+HTML {
+background-image: url("https://wallpapercave.com/wp/wp2600403.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+
+}
+
+.everything{
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-size:30px;
+}
+
+#only{
+  opacity: 0%;
+}
+
+#significance{
+  font-size: 20px;
+}
